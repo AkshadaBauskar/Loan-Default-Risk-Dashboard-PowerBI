@@ -1,0 +1,20 @@
+Column Name	Definition
+LoanID:	A unique identifier for each loan in the dataset.
+Age:	The borrower's age at the time the loan was issued.
+Income:	The borrower's annual income
+LoanAmount:	The total amount of the loan that the borrower is requesting or has been approved for.
+CreditScore:	A numerical representation of the borrower's creditworthiness, typically ranging from 300 to 850. A higher credit score indicates the borrower is more likely to repay the debt.
+MonthsEmployed:	The number of months the borrower has been employed at their current job or with their current employer.
+NumCreditLines:	The total number of active credit lines (e.g., credit cards, loans) the borrower has at the time of applying for the loan.
+InterestRate:	The annual percentage rate (APR) charged for borrowing the loan amount, usually expressed as a percentage.
+LoanTerm:	The length of time (in months) over which the loan is to be repaid.
+DTIRatio:	The Debt-to-Income ratio, which measures the borrower’debt payments relative to their income. A higher ratio can indicate greater financial stress.
+Education:	The highest level of education the borrower has completed (e.g., High School, Bachelor’s, Master’s, etc.).
+EmploymentType:	The type of employment the borrower is engaged in (e.g., Full-Time, Part-Time, Self-Employed, etc.).
+MaritalStatus:	The marital status of the borrower (e.g., Single, Married, Divorced, etc.).
+HasMortgage:	An  indicator (e.g., Yes/No) that shows whether the borrower has an existing mortgage on a property.
+HasDependents:	An  indicator (e.g., Yes/No) that shows whether the borrower has dependents (children, other family members) to support.
+LoanPurpose:	The primary reason for taking out the loan (e.g., Home Purchase, Debt Consolidation, Education, etc.).
+HasCoSigner:	An  indicator (e.g., Yes/No) that shows whether the borrower has a co-signer for the loan (someone who agrees to take responsibility if the borrower defaults).
+Default:	An  indicator (e.g., Yes/No) that shows whether the borrower defaulted on the loan or failed to make timely payments.
+Loan Date (DD/MM/YYYY):	The date the loan was issued or originated.
